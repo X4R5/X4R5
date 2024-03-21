@@ -1,4 +1,4 @@
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="1024" height="480"/>
+<img src="https://huseyin.dev/banner.jpg" alt="unity" width="1024" height="480"/>
 👨‍💻 My personal website [huseyin.dev](https://huseyin.dev/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
