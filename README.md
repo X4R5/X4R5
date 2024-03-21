@@ -1,5 +1,5 @@
 <img src="https://huseyin.dev/banner.jpg" alt="unity" width="512" height="240"/>
-👨‍💻 My personal website [huseyin.dev](https://huseyin.dev/)
+👨‍💻 My personal website <a href="https://huseyin.dev/">huseyin.dev</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xarsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xarsv" height="30" width="40" /></a>
