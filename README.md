@@ -1,5 +1,5 @@
 # Hello world!
-<img src="https://huseyin.dev/github.jpg" alt="unity" width="398" height="232" align="right" />
+<img src="https://huseyin.dev/g.jpg" alt="unity" width="350" height="350" align="right" />
 
 I'm trying to learn game development and web development. Take a look at my projects!
 
