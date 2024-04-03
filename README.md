@@ -1,4 +1,4 @@
-<img src="https://huseyin.dev/github.jpg" alt="unity" width="597" height="349" align="right" />
+<img src="https://huseyin.dev/github.jpg" alt="unity" width="398" height="232" align="right" />
 
 👨‍💻 My personal website <a href="https://huseyin.dev/">huseyin.dev</a>
 <h3 align="left">Connect with me:</h3>
