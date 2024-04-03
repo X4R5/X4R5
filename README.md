@@ -1,6 +1,8 @@
+# Hello world!
 <img src="https://huseyin.dev/github.jpg" alt="unity" width="398" height="232" align="right" />
 
-👨‍💻 My personal website <a href="https://huseyin.dev/">huseyin.dev</a>
+I'm trying to learn game development and web development. Take a look at my projects!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xarsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xarsv" height="30" width="40" /></a>
